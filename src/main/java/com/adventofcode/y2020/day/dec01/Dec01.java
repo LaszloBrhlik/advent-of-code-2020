@@ -16,7 +16,7 @@ import com.adventofcode.y2020.util.RuntimeUtil;
 public class Dec01 {
 
     public Dec01() {
-        final ArrayList<Integer> input = FileReaderUtil.readNumbers("dec01.csv");
+        final ArrayList<Integer> input = FileReaderUtil.readNumbers("dec01/dec01.csv");
 
         //If you want to measure runtime performance.
         //RuntimeUtil.startTimer();
